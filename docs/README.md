@@ -1,10 +1,6 @@
-# vuepress-demo
+# Hello VuePress
 
-reproduce repo
-
-# problem description
-
-You need to allocate port 8080 first
+# test host reload
 
 If the port of 8080 is occupied,
 
